@@ -1,6 +1,5 @@
-# 💫 About Me:
-Passionate Web Developer with over 5 years of experience building dynamic applications using JavaScript and Python. Specialized in crafting efficient Telegram bots with Python, and proficient in containerization with Docker to deliver scalable, deployment-ready solutions.
-P.S: Vibe Coding As Side Projects 8>
+# 💫 Some Words:
+A Geek
 
 
 ## 🌐 Socials:
@@ -28,74 +27,3 @@ P.S: Vibe Coding As Side Projects 8>
 
 ### 🗄️ Databases & Cloud
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📱 Advanced Telegram Bot</h3>
-      <p>A feature-rich Telegram bot with advanced automation, database integration, and real-time notifications</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <a href="https://github.com/rayanalpha">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🌐 Full-Stack Web Application</h3>
-      <p>Modern web application built with Vue.js and FastAPI, featuring real-time updates and responsive design</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vue.js&logoColor=%4FC08D" />
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <a href="https://github.com/rayanalpha">View Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Next.js Dashboard</h3>
-      <p>Performance-optimized dashboard with analytics, charts, and real-time data visualization</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <a href="https://github.com/rayanalpha">View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>🔗 REST API Service</h3>
-      <p>Scalable RESTful API with authentication, rate limiting, and comprehensive documentation</p>
-      <p>
-        <img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://github.com/rayanalpha">View Repository</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Let's Connect:
-I'm always interested in collaborating on exciting projects, discussing new ideas, or exploring job opportunities. Whether you're looking for a developer, need help with a project, or just want to chat about tech:
-
-- 💼 **Open to opportunities** - Feel free to reach out for freelance projects or full-time roles
-- 🚀 **Collaboration** - Let's build something amazing together
-- 📧 **Get in touch** - Connect with me on LinkedIn or send an email
-- 🐙 **Check my work** - Explore my projects on GitHub
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayanalpha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rayanalpha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanalpha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=rayanalpha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
