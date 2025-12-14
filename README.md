@@ -29,6 +29,14 @@ P.S: Vibe Coding As Side Projects 8>
 ### 🗄️ Databases & Cloud
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+## 🤝 Let's Connect:
+I'm always interested in collaborating on exciting projects, discussing new ideas, or exploring job opportunities. Whether you're looking for a developer, need help with a project, or just want to chat about tech:
+
+- 💼 **Open to opportunities** - Feel free to reach out for freelance projects or full-time roles
+- 🚀 **Collaboration** - Let's build something amazing together
+- 📧 **Get in touch** - Connect with me on LinkedIn or send an email
+- 🐙 **Check my work** - Explore my projects on GitHub
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rayanalpha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rayanalpha&theme=dark&hide_border=false)<br/>
