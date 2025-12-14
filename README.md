@@ -1,5 +1,6 @@
 # 💫 About Me:
 Passionate Web Developer with over 5 years of experience building dynamic applications using JavaScript and Python. Specialized in crafting efficient Telegram bots with Python, and proficient in containerization with Docker to deliver scalable, deployment-ready solutions.
+P.S: Vibe Coding As Side Projects 8>
 
 
 ## 🌐 Socials:
